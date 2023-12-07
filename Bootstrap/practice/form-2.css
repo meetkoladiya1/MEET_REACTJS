@@ -1,0 +1,22 @@
+.one{
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.two{
+    position: absolute;
+    left: 300px ;
+}
+
+.account{
+    height: 20px;
+    width: 120px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: rgb(4, 180, 249);
+}
